@@ -1,0 +1,3 @@
+displayName = Eldritch
+author = nmajestic
+version = 0.0.1
