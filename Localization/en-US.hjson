@@ -1,0 +1,20 @@
+Mods: {
+	Eldritch: {
+		Tiles: {
+			EntropyOre.MapEntry: EntropyOre
+			OrderOre.MapEntry: OrderOre
+		}
+
+		Items: {
+			EntropyOre: {
+				DisplayName: Entropy Crystal Ore
+				Tooltip: What is this...?
+			}
+
+			OrderOre: {
+				DisplayName: Order Crystal Ore
+				Tooltip: What is this...?
+			}
+		}
+	}
+}
